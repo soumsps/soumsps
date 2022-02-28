@@ -2,10 +2,6 @@
 
 I am a front end developer, I love building things with ReactJs.
 
-- 🔭 Recently learned Next.js
-- 🌱 I’m currently learning Apollo/ GraphQL
-- 👼 My pride [https://sourcerer.io/soumsps](https://sourcerer.io/soumsps)
-
 <!--
 **soumsps/soumsps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
